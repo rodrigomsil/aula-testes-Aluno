@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Desenvolvimento da classe Aluno em engenharia de software 2 onde a mesma retora varios dados
  * 
- * @author Rodrigo
+ * @author Rodrigo 
  *
  */
 public class Aluno {
