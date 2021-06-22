@@ -3,8 +3,15 @@ package ex07;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Desenvolvimento da classe em engenharia de software 2
+ * 
+ * @author Rodrigo
+ *
+ */
 public class Aluno {
 
+		
 	private String nome;
 	private List<Double> notas = new ArrayList<Double>();
 	
